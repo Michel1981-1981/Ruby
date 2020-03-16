@@ -1,7 +1,7 @@
 Before do
-    @cadastro_page = CadastroLoginPage.new
-    @login_page = Login.new
-    @task_page = Task.new
+    @cadastro_page = CadastroPage.new
+    @login_page = LoginPage.new
+    @task_page = TaskPage.new
       page.current_window.resize_to(1280, 800)
    end
 

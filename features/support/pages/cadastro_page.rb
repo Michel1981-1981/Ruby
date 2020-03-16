@@ -1,4 +1,4 @@
-class CadastroLoginPage
+class Cadastro
     include Capybara::DSL
 
     def go

@@ -28,3 +28,6 @@ Obs: chromeDriver deve ser instalado de acordo com a versão do chrome, ambos de
 https://cmder.net/
 Obs: Instalar o pacote Full que já terá o Git para Windows.
 Se tiver problemas com erro relacionado ao FFI, favor rodar o comando: gem install ffi
+
+Obs: Na opção de criar uma task, no horário não está deixando criar por conta do campo não ser clicável. Com isso não consigo salvar uma task.
+

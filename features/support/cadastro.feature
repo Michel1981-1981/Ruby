@@ -3,7 +3,7 @@
 Funcionalidade: Cadastro de Login
     
 
-@teste
+
 Cenário: Cadastro
 Dado que estou na página inicial
 E clico em cadastrar

@@ -1,4 +1,4 @@
-class TestePage
+class Task
     include Capybara::DSL
 
     def go

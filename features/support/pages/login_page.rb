@@ -1,4 +1,4 @@
-class TestePage
+class Login
     include Capybara::DSL
 
     def go

@@ -2,10 +2,6 @@
 
 Funcionalidade: Task
 
-Fazer login com usuario e senha
-Clicou em adicionar algumas tarefas
-Clicou em adicionar uma tarefa
-
 
 Cenario: Adicionar uma tarefa
 
